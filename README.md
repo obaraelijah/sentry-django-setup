@@ -1,7 +1,13 @@
 # Django and Senty setup
-Your software applications need monitoring. <br>
-This codebase showcase how to use Sentry with Django for monitoring
+<p>
+  <a href="https://twitter.com/talkcoding" target="_blank">
+    <img alt="Twitter: talkcoding" src="https://img.shields.io/twitter/follow/Talkcoding.svg?style=social" />
+  </a>
+</p>
 
+👋 Your software applications need monitoring. <br>
+This codebase showcase how to use Sentry with Django for monitoring
+This article has complete guide:  [check here](https://medium.com/@elijahobara/integrate-sentry-in-django-project-monitoring-a-django-project-4ee008cb2816)
 # Setup & running locally
 
 Create a .env file by copying the .env.sample provided and run:
