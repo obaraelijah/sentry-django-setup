@@ -26,14 +26,11 @@ Run descriptive tests in the container using:
 ```
 docker exec -it -w /app <container_name> pytest -rP -vv
 ```
-
 Access the docs on:
 
 ```
 http://localhost:10060/api/v1/doc
 ```
-
-
 ## Running In a Virtual Env
 
 Create a virtual environment using:
@@ -57,7 +54,6 @@ Run the server using:
 ```
 python manage.py runserver
 ```
-
 ![Screenshot](screenshot1.png) <br><br>
 ![Screenshot](screenshot2.png) <br><br>
 ![Screenshot](screenshot3.png) <br><br>
